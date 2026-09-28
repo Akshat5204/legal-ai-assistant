@@ -1,0 +1,117 @@
+{
+    "parties": [
+        "Vericel Corporation",
+        "MediWound",
+        "BARDA",
+        "MediWound Ltd.",
+        "Vericel"
+    ],
+    "classified_clauses": {
+        "liability_legal": [
+            "[***] CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT HAVE BEEN OMITTED AND REPLACED WITH '[***]'.",
+            "[***] SUCH IDENTIFIED INFORMATION HAS BEEN EXCLUDED FROM THIS EXHIBIT BECAUSE IT IS (I) NOT MATERIAL AND (II) WOULD LIKELY CAUSE COMPETITIVE HARM TO THE COMPANY IF DISCLOSED.",
+            "...meets, and was Manufactured in accordance with, the applicable Specifications, Regulatory Standards (including cGMP where applicable) and the requirements set forth in the Quality Agreement, meets no defects in materials and workmanship.",
+            "MediWound’s performance with respect to on-time delivery will be measured as per the agreed date between Vericel and MediWound, provided that delays due to non-compliance by Vericel are considered acceptable.",
+            "Vericel shall give MediWound written notice within a specified period after receipt if the Product does not constitute Conforming Product, with exceptions for latent defects and specific time frames provided. Disputes over conformity will be resolved through testing by an agreed-upon laboratory.",
+            "In case of non-conforming products due to MediWound's gross negligence or misconduct, the remedy options include delivering appropriate shortage quantities promptly at no additional cost, replacing with Conforming Product without extra costs, and granting Vericel a credit for expenses associated directly related to non-conforming products.",
+            "MediWound will notify Vericel in case of any material or product supply shortages. If the cause is due to MediWound's lack of capacity required for manufacture, all reasonable steps including procuring materials and fulfilling Binding Orders are expected.",
+            "Supply Failures. In the event that MediWound becomes aware of the existence of a situation that may lead to a Supply Failure, then MediWound shall promptly (and in no event later than [***] from the date of such awareness) notify Vericel of the particular circumstances.",
+            "MediWound and Vericel shall promptly discuss how to resolve such circumstances in an effort to avoid or mitigate such potential Supply Failure. MediWound shall investigate the root cause of the anticipated Supply Failure and prepare and provide to Vericel a Remediation Plan within [***] of MediWound’s notice to Vericel.",
+            "Certificates of Analysis; Release. MediWound shall perform, or cause to be performed testing and other activities on each Batch of Product Manufactured pursuant to this Agreement before delivery to Vericel or Vericel’s designated Affiliate or contractor and consistent with the testing and procedures specified in the Quality Agreement.",
+            "/26 (a) Any decision to initiate a Recall of a Product in a country within Territory shall be made by the marketing approval holder, following consultation between Parties and compliance with applicable Law.",
+            "Liability that the MediWound Indemnified Party may be required to pay to one or more Third Parties (other than shareholders of MediWound or its Affiliates) resulting from or arising out of: (a) the material breach by Vericel of any of its representations, warranties or covenants set forth in Article 6; b) any Recall or withdrawal of Product to the extent attributable to Vericel’s breach of this Agreement or the Quality Agreement; or (c) the gross negligence or willful misconduct of Vericel or any subcontractor or Supplier acting on behalf of Vericel relating to its activities in connection with this Agreement, except, in each case, to the extent caused by the negligence, recklessness or intentional acts of MediWound or any MediWound Indemnified Party.",
+            "No right of indemnification under License Agreement. No right of indemnification shall exist under the License Agreement for claims arising out of the performance of this Agreement, it being the intent of the Parties that such claims shall be solely governed by the provisions of this Agreement and, for the avoidance of doubt, except as set forth in Section 7.6, no limits on indemnification or liability set forth in the License Agreement shall apply to this Agreement.",
+            "Each Party will notify the other Party in writing in the event it becomes aware of a claim for which indemnification may be sought hereunder. In the event that any Third Party asserts a claim or other proceeding (including any governmental investigation) with respect to any matter for which a Party is entitled to indemnification hereunder, then the Indemnified Party shall promptly notify the Indemnifying Party thereof.",
+            "EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, NEITHER PARTY MAKES, AND EACH PARTY EXPRESSLY DISCLAIMS, ANY AND ALL REPRESENTATIONS OR WARRANTIES OF ANY KIND, WITH RESPECT TO THIS AGREEMENT (INCLUDING THE MANUFACTURE AND SUPPLY OF PRODUCT HEREUNDER), EXPRESS, IMPLIED OR STATUTORY.",
+            "NEITHER PARTY SHALL BE LIABLE FOR ANY SPECIAL, INCIDENTAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES OF ANY KIND (INCLUDING LOST PROFITS) REGARDLESS OF THE FORM OF ACTION, WHETHER IN CONTRACT, TORT, NEGLIGENCE, BREACH OF STATUTORY DUTY OR OTHERWISE, SUFFERED BY THE OTHER PARTY, EVEN IF THAT PARTY HAS BEEN INFORMED OF THE POSSIBILITY OF ANY SUCH DAMAGES IN ADVANCE.",
+            "For the duration of this Agreement and for a period of [***] following its termination, each Party agrees to obtain and maintain, during the Term, commercial general liability insurance with reputable carriers or pursuant to a program of self-insurance reasonably satisfactory to the other Party.",
+            "Party) to cover its indemnification obligations under Section 7.1 or Section 7.2, as applicable, in each case with limits of not less than per occurrence and in the aggregate.",
+            "Insurance shall be procured with carriers having an A.M. Best Rating of A-VII or better.",
+            "Either Party may terminate this Agreement in its entirety if the other Party materially breaches a material provision and does not cure such breach, or does not take reasonable steps required under the circumstances to cure such breach going forward, within [***] after receiving notice of the breach.",
+            "Notwithstanding anything to the contrary herein, the occurrence of a Force Majeure Event will not excuse or prevent a failure of MediWound to deliver Product from being deemed a “Supply Failure” or otherwise limit Vericel’s rights, to the extent applicable, under Section 2.13.",
+            "A Party claiming a right to be excused from performance under Section 10.1 shall immediately notify the other Party in writing of the extent of its inability to perform, which notice shall specify the Force Majeure Event and the estimated likely period of time during which its performance will be affected.",
+            "The waiver by either of the Parties of any breach of any provision hereof by the other Party shall not be construed to be a waiver of any succeeding breach of such provision or a waiver of the provision itself."
+        ],
+        "parties_definitions": [
+            "SUPPLY AGREEMENT by and between Mediwound Ltd. and Vericel Corporation May 6, 2019 TABLE OF CONTENTS Page ARTICLE 1 DEFINITIONS",
+            "[***] Article 1 DEFINITIONS The following terms have the meanings set forth below.",
+            "Scope of Agreement",
+            "Consent to Jurisdiction",
+            "Entire Agreement",
+            "Representation by Legal Counsel"
+        ],
+        "Uncertain": [
+            "Additional Service has the meaning...",
+            "'Product' means, as applicable, the (a) Intermediate Drug Product, (b) Bulk Vehicle Gel and (c) Finished Product.",
+            "MediWound shall manufacture and supply Product for the Supply Price, in exchange for which it will perform Additional Services.",
+            "Products shall be delivered to Vericel Ex-Works.",
+            "(d) The Parties will cooperate to discuss expansion plans, address capacity and any other product supply issues, including efficient use of resources, manufacturing schedules and shipping schedules.",
+            "MediWound shall be solely responsible for ensuring the cGMP compliance status of subcontractors (where such subcontractors are carrying out activities to which cGMP applies) used in relation to the performance of its obligations under this Agreement.",
+            "In addition, in the event any payments made by Vericel pursuant to this Agreement become subject to withholding taxes under the Laws or regulations of any jurisdiction, Vericel shall deduct and withhold the amount of such taxes for the account of MediWound.",
+            "Vericel will provide reasonable assistance to enable MediWound to recover such taxes as permitted by applicable Laws or regulations.",
+            "MediWound represents, warrants and covenants that all Product delivered to Vericel (or its designated Affiliate or contractor) pursuant to this Agreement will be free of liens, encumbrances, security interests and other encumbrances.",
+            "Any expiration or termination of this Agreement shall not affect any claims that have accrued or outstanding obligations or payments due hereunder prior to such termination or expiration, nor shall it prejudice any other remedies that the Parties may have under this Agreement.",
+            "A non-performing Party as a result of a Force Majeure Event shall use reasonable best efforts, at its own expense, to eliminate the Force Majeure Event and to mitigate the effect of such cause and resume performance under this Agreement, in each case, as soon as practicable and for as long as such Force Majeure Event continues. Further, consistent with diligent risk management practices, MediWound will keep current a risk management program.",
+            "Confidentiality - Section 7 of the License Agreement shall govern use and disclosure.",
+            "Moderate - Changes to facility have a moderate potential to have an adverse effect on product quality that requires Notification to the Regulatory Authority (e.g., CBE, CBE-30).",
+            "Minor - Changes have minimal potential to have an adverse effect on product quality that requires annual or periodic reporting to the FDA."
+        ],
+        "dates_term": [
+            "Effective Date has the meaning...",
+            "The term of this Agreement will commence upon the Effective Date.",
+            "The term of this Agreement will commence upon the Effective Date and will continue until the fifth (5th) anniversary of the Effective Date, unless earlier terminated or extended under this Article 8.",
+            "At least twenty-four (24) months from the end of the Initial Term, Vericel shall provide MediWound notice whether Vericel elects to extend the Initial Term of the Agreement by an additional twenty four (24) months. After the Initial Term (including any extension thereto made in accordance with the preceding sentence), the Agreement may be extended on a yearly basis up to ten (10) years at Vericel’s sole discretion, with renewal notice to be provided to MediWound no later than twelve (12) months prior to the expiry of any yearly extension."
+        ],
+        "restrictions": [
+            "...and is not an article which may not under the provisions of the FD&C Act be introduced into interstate commerce.",
+            "Exclusive Supply",
+            "Vericel to order exclusively from MediWound during first five years unless due to a Supply Failure or as otherwise permitted under License Agreement or this Agreement; activities not limited herein are expressly allowed.",
+            "Shipping. MediWound shall only ship Products that have been Manufactured and released in accordance with the Specifications.",
+            "Unless agreed in advance by Vericel and MediWound in writing, MediWound shall not ship (or permit such Third Party packager to ship) any Products prior to approval and release by MediWound in accordance with the Quality Agreement and Regulatory Standards.",
+            "Unless agreed in advance by Vericel and MediWound, MediWound shall not ship any Products prior to approval and release by MediWound according to the Quality Agreement and Regulatory Standards.",
+            "Major - Changes to facility have the potential to have an adverse effect on product quality that requires BLA Prior Approval Supplement.",
+            "None - Changes have no potential to have an adverse effect on product quality and has no regulatory impact."
+        ],
+        "rights_control": [
+            "MediWound purchases and manages all materials for Product manufacturing at its own cost, ensures conformity with terms of the agreement and applicable standards.",
+            "Regulatory Compliance. MediWound shall advise Vericel promptly, but in any event within [***] on becoming aware of an authorized agent of a Regulatory Authority visit or inspection to its or any of the Suppliers’ Facilities where the Products are being Manufactured for supply to Vericel for the Territory and in connection with the Manufacturing of the Products.",
+            "Audit. (a) Vericel shall have the right from time to time during the Term of this Agreement, but not more than [***] (unless (i) otherwise agreed between the Parties or (ii) if Section 3.4(b) below applies), during normal business hours and upon not less than [***] prior notice (unless Section 3.4(b)(iv) applies), to enter and inspect any Facility and related utilities and/or services used in Manufacturing Product.",
+            "/26 (d) MediWound shall use commercially reasonable efforts to procure the right for Vericel to have the same inspection rights described in this Section 3.4 at the premises of any such subcontractor, and if unable to procure such rights, shall carry out such audits itself and shall report its non-confidential findings to Vericel.",
+            "/26 (a) MediWound and Vericel shall cooperate to determine the cause for any identified issues from observations or conclusions of Vericel’s audits, work together in good faith to develop a corrective action, and endeavor to implement such corrective action within a mutually agreed time period thereafter.",
+            "/26 (a) MediWound shall promptly disclose information required for Vericel to obtain necessary permits, approvals or licenses relating to the Product's manufacture and compliance with Regulatory Standards upon request.",
+            "Notwithstanding any other provision under this Agreement to the contrary, if either Party receives notice, or is otherwise informed of, any change to the Manufacturing process or Specifications for a Product or Key Materials, the Facility or any change that has an impact of the obligations of Vericel or MediWound under this Agreement that is required by applicable Law or that is otherwise required by any applicable Regulatory Authority (any such change, a “Regulatory Change”), such Party shall promptly deliver notice thereof to the other Party.",
+            "If MediWound determines it is technically unable to comply with the Regulatory Change at the Facility in the timeframe required by the applicable Regulatory Authority, then, in MediWound’s discretion, it shall have the right to transfer the Manufacturing of the applicable Product to an alternative facility of MediWound that is qualified and approved for Manufacturing such Product in accordance with this Agreement, if available.",
+            "If as a result of a Regulatory Change, MediWound is unable to supply Product as a result of such Regulatory Change, Vericel, in its sole discretion, shall be entitled to source all or any portion of Vericel’s requirements of the applicable Product, until MediWound regains the ability to supply Product, from a Third Party, including from the Second Source. In this event, MediWound shall use commercially reasonable efforts to provide Vericel with reasonable technical assistance regarding transferring technology relating to such Product and discussing cost allocation.",
+            "If MediWound determines it is technically able to implement a Regulatory Change required by a Regulatory Authority in the Territory, the costs for such Regulatory Change shall be borne by Vericel consistent with Schedule 4.5.",
+            "Upon request of Vericel, MediWound shall provide technical data and assistance as described above at no cost to Vericel or otherwise without additional compensation from Vericel.",
+            "The Indemnifying Party shall not enter into any compromise that commits the Indemnified Party to take, or to forbear to take, any action without the prior written consent of the Indemnified Party. Each party has the right to settle Third Party Claims on such terms and conditions as it deems appropriate.",
+            "This Agreement will automatically immediately terminate in the event of the expiration or termination of the License Agreement.",
+            "Neither this Agreement nor any interest hereunder shall be assignable by a Party without the prior written consent of the other Party, except as follows: (a) such Party may assign its rights and obligations under this Agreement to any of its Affiliates, provided that the assignee shall expressly agree to be bound by such Party’s obligations under this Agreement and that such Party shall remain liable for all of its rights and obligations under this Agreement.",
+            "Any notice or notification required or permitted to be provided pursuant to the terms and conditions of this Agreement (including any notice of force majeure, breach, termination, change of address, etc.) shall be in writing and deemed given upon receipt if delivered personally or by facsimile transmission.",
+            "If any clause or portion thereof in this Agreement is for any reason held to be invalid, illegal or unenforceable, the same shall not affect any other portion of this Agreement.",
+            "No Third Party Rights or Obligations"
+        ],
+        "payment_commercial": [
+            "Products shall be delivered within a specified number of days from the relevant Purchase Order unless otherwise agreed upon. Vericel may accept excess delivery provided certain conditions are met, including potential adjustments in subsequent orders or credits for shortage quantities if deliveries fall below a minimum threshold but not less than another set amount.",
+            "The remaining shelf life for each Product must meet a minimum percentage of FDA approved shelf life.",
+            "MediWound shall maintain as safety stock not less than the Rolling Forecast demand, provided that this does not affect compliance with Minimum Shelf Life requirements and efforts are made to fulfill Binding Orders in case of shortages by procuring materials from Third Party suppliers or allocating available products."
+        ],
+        "termination": [
+            "(b) Prior to a Second Source commencing supply of Product, in the event of a shortage of (i) any Materials required to Manufacture Product or (ii) Product, MediWound will allocate the available Materials to the Manufacture of Product for sale to Vericel and will allocate the available Product for sale to Vericel, in each case ((i) or (ii)), to the extent any Binding Orders then in place prior to allocating such materials to the Manufacture of any other product (including EscharEx), or for any entity other than Vericel.",
+            "In all other cases, Vericel shall be permitted to take such measures as are reasonably determined in good faith by Vericel to ensure the supply of Product to the marketplace including cancelling or revising outstanding Purchase Orders and, at Vericel’s option, Vericel’s obligations under Section 2.8(a), (b) and (c) shall be deemed terminated.",
+            "Records. MediWound shall maintain and shall cause each Supplier to maintain all Manufacturing records, including packaging, analytical and stability records, all records of shipment, and all validation data relating to the Product Manufactured and supplied to Vericel hereunder for the Territory to the extent and for the time periods required by applicable Regulatory Standards with respect to such Product.",
+            "Each payment made after the due date shall be accompanied by all interest so accrued.",
+            "Following the Initial Term, Vericel may, without penalty or prejudice to any other rights or remedies Vericel may have, in its sole discretion terminate or reduce the scope of any individual activities contemplated by this Agreement or any Additional Service or with respect to any Product or terminate this Agreement as a whole with or without cause, upon [***] prior written notice of such termination.",
+            "MediWound may terminate this Agreement by notice in writing to Vericel upon at least [***] advanced written notice (or such longer period of time as reasonably necessary to avoid a supply disruption) if MediWound determines to cease Manufacturing the applicable Product for the Territory, but in such case MediWound will reasonably cooperate with Vericel to enable Vericel to establish its own source for the Product."
+        ],
+        "intellectual_property": [
+            "The Indemnifying Party shall have the right, exercisable by notice to the Indemnified Party within [***] after receipt of notice from the Indemnified Party of the commencement or assertion of any Third Party Claim, to assume direction and control of the defense, litigation, settlement, appeal or other disposition of such claim with counsel selected by the Indemnifying Party and reasonably acceptable to the Indemnified Party.",
+            "Ownership of all inventions and discoveries made by the Parties in the course of Manufacturing and supply of the Product hereunder (including Manufacture and supply of Product) shall be determined in accordance with the terms of the License Agreement.",
+            "Each Party agrees to execute, acknowledge and deliver such further instruments, and to do all other acts, as may be necessary or appropriate in order to carry out the purposes and intent of the Agreement."
+        ],
+        "license": [
+            "Upon expiration of the Royalty Term for any Licensed Product in a given country, the license granted to Vericel under Section 9.1 of this Agreement with respect to such Licensed Product shall automatically become fully paid-up, perpetual, irrevocable and royalty-free.",
+            "The license granted to Vericel under Section 9.1 of this Agreement is non-exclusive, sublicensable (subject to Section 4.2), royalty-free and fully paid up."
+        ]
+    }
+}

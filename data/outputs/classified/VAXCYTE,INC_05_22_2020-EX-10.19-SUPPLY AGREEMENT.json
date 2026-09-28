@@ -1,0 +1,130 @@
+{
+    "parties": [
+        "Sutro Biopharma, Inc.",
+        "SutroVax, Inc.",
+        "SutroVax",
+        "its Affiliates",
+        "Sutro"
+    ],
+    "classified_clauses": {
+        "dates_term": [
+            "This Supply Agreement is made as of May 29, 2018 by and between SutroVax, Inc., a Delaware corporation having principal offices at 353 Hatch Dr., Foster City, CA 94404 (‘SutroVax’) and Sutro Biopharma, Inc., a Delaware corporation, having principal offices at 310 Utah Ave, Suite 150, South San Francisco, CA, 94080 (‘Sutro')."
+        ],
+        "license": [
+            "Sutro controls certain proprietary technology which permits cell-free expression of proteins and has licensed such technology to SutroVax under that certain Amended and Restated SutroVax Agreement dated as of October 12, 2015 (the ‘License Agreement’).",
+            "Sutro shall provide reasonable support for the use of Third Party Custom Reagents in conjunction with Extract supplied by or on behalf of Sutro...",
+            "Sutro shall have the right to share any generated safety data with its Affiliates and Third Parties, subject to section 10.2 of the License Agreement."
+        ],
+        "parties_definitions": [
+            "Sutro is a vaccine company primarily in the business of developing, manufacturing and marketing vaccine products.",
+            "Manufacture of Custom Reagents."
+        ],
+        "Uncertain": [
+            "The Parties hereby agree that SutroVax will purchase from Sutro certain Extracts and Custom Reagents upon specified terms and conditions set forth herein.",
+            "Pursuant to the terms and conditions of this Supply Agreement, Sutro agrees that it will Manufacture the Product(s) at the Facility(ies) for SutroVax and shall supply the Product(s) to SutroVax, its Affiliates, and any SutroVax CMO, for purposes of production of Vaccine Compositions (including development of processes for the production of Vaccine Compositions), solely for non-clinical research purposes or in Phase I or Phase II clinical trials of such Vaccine Compositions.",
+            "Purchase orders with respect to the amounts of Products shall be accepted or rejected within a specified number of days from receipt.",
+            "Prompt written notification to SutroVax if unable to supply compliant product is mandatory. Efforts must be made to overcome any such shortage.",
+            "Other Extracts. From time-to-time, subject to an agreed-upon Work Order, Sutro may place purchase orders for quantities of research grade extract derived from strains of E. Coli other than that set forth on Schedule 1 attached hereto (each an “Other Extract”).",
+            "Sutro will separately identify all such Taxes on Sutro’s invoice.",
+            "Sutro is responsible for obtaining necessary permits and approvals, filing DMF with the FDA and other Regulatory Authorities in territories including EU and Japan. It shall provide authorizations to such authorities allowing reference of Drug Master Files submitted by it.",
+            "Sutro is responsible for maintaining a copy of its DMFs, providing additional data as requested by regulatory authorities upon approval from the requester party.",
+            "Sutro shall have final decision-making authority regarding recalls and field actions related to Vaccine Compositions, with SutroVax having a right to request such action.",
+            "Sutro shall prepare and retain samples as required by Applicable Law (including cGMPs).",
+            "Sutro agrees to consider comments received within a reasonable time period regarding matters relating to SutroVax, provided they are timely and consistent with regulatory response requirements.",
+            "Notwithstanding the foregoing, Sutro shall promptly make and implement such changes as are required by Applicable Law provided that, prior to implementation, Sutro shall provide notice thereof to SutroVax and confer with SutroVax with respect to its timelines, estimated effect on Price and other issues regarding such implementation.",
+            "All such changes or modifications shall be documented in writing and shall be signed by an authorized representative of SutroVax and Sutro. If such changes or modifications result in a material change in Sutro’s Manufacturing costs or lead times, the Parties shall agree upon an appropriate adjustment to the Price or in the delivery schedules, as the case may be, for Product(s) to be provided by Sutro hereunder.",
+            "Recordkeeping, Taxes.",
+            "Arbitration. If the Senior Managements are not able to resolve such dispute referred to them under Section 11.2 within such [***] day period, then such dispute shall be resolved by final and binding arbitration as follows: The Parties shall select a mutually agreeable arbitrator who has significant relevant experience in the subject matter of the disputed issue and no affiliation or pre-existing relationship with either Party.",
+            "Each Party shall bear its own costs, fees and expenses incurred by such Party in connection with this Supply Agreement.",
+            "...This Supply Agreement, together with the License Agreement, constitutes the entire agreement and supersedes all prior agreements...",
+            "All notices, requests or other communication provided for or permitted hereunder shall be given in writing and shall be hand delivered or sent by confirmed facsimile, reputable courier or by registered or certified mail, postage prepaid, return receipt requested."
+        ],
+        "termination": [
+            "Subject to Section 2.1, SutroVax may transfer Products to SutroVax CMOs selected by SutroVax and that are reasonably acceptable to Sutro (the acceptance of which by Sutro not to be unreasonably withheld, conditioned or delayed).",
+            "SutroVax may not modify or cancel purchase orders regarding the amounts of Product but can modify other purchase orders if done further in advance than required lead time (evidenced by writing).",
+            "plan, budget, funding requirements; initiation and completion of the process transfer as requested by SutroVax; qualification of Alternate Supplier (Validating); cooperation to verify that supplied Extract meets Specifications; mechanisms for keeping parties informed about progress quarterly or more frequently if changes occur; right for SutroVax to modify timing, terminate Process Transfer on reasonable notice and associated fees.",
+            "(a) transfer to SutroVax or a contract manufacturer designated by SutroVax (which contract manufacturer is reasonably acceptable to Sutro, the approval of which shall not be unreasonably withheld, conditions or delayed by Sutro) as soon as reasonably practicable the process to Manufacture each Custom Reagent and the items of Sutro Know-How necessary for SutroVax or its designee to Manufacture each Custom Reagent...",
+            "UtroVax at the time of each shipment of Product(s) for the Price shall pay such invoices within *** days of receipt of invoice (including all required documentation).",
+            "Effects of Termination.",
+            "...If the performance of any obligation of a Party under this Supply Agreement is delayed owing to such a Force Majeure for any continuous period of more than days, the other Party shall have the right to terminate this Supply Agreement."
+        ],
+        "payment_commercial": [
+            "From time to time, Sutro and SutroVax may execute one or more work orders, that describe the Product to be Manufactured, the quantities of each Product to be Manufactured and supplied to SutroVax, the Price to be charged by Sutro (which shall be as set forth in Section 3.2) and paid by SutroVax for the Product, and the delivery date(s) for such Product.",
+            "Each purchase order placed by SutroVax shall specify the quantity of Product, destination(s) and requested delivery dates.",
+            "Sutro accepts and agrees to fulfil an initial order for specific quantities as set forth on Schedule 3, with delivery date provided therein.",
+            "Price. To the extent Sutro or its Affiliate Manufactures Extract supplied to SutroVax, the Price (per unit volume or unit weight) under this Supply Agreement and the Phase 3/Commercial Supply Agreement for such Extract shall not exceed [***] of the Fully Burdened Manufacturing Costs of such Extract.",
+            "The Prices for the Products shall not exceed [***] of the Fully Burdened Manufacturing Costs of such Product...",
+            "The Prices for the Products as of the Effective Date is set forth in Schedule 1."
+        ],
+        "rights_control": [
+            "Conflicting terms in purchase documents are hereby rejected unless mutually agreed upon in writing by both parties.",
+            "Manufacture the Product(s) in accordance with amendable or supplemented required standards, keeping parties informed about new requirements promptly and fully.",
+            "Sutro shall ensure that any subcontractor or delegatee of Sutro’s obligations under this Supply Agreement has and maintains all appropriate qualifications, enter into a quality agreement with each such subcontractor and delegatee which terms are similar to the terms of the Quality Agreement between SutroVax and Sutro, and be responsible for each subcontractor’s performance hereunder as if Sutro were itself performing such activities.",
+            "Sutro shall not subcontract the Manufacture of Product to a Third Party without SutroVax’ prior consent other than to an Alternate Supplier as expressly set forth in Section 2.15.",
+            "If requested by SutroVax in writing, the Parties shall negotiate reasonable terms for an agreement for the supply by Sutro of Products for production of Vaccine Compositions for use in phase 3 clinical studies and commercial purposes (Phase 3/Commercial Supply Agreement). The price for such products manufactured under this Phase 3/Commercial Supply Agreement shall not exceed the Fully Burdened Manufacturing Cost thereof. If no agreement is entered within *** days after SutroVax’ request, terms and conditions of the selected draft will be determined by binding arbitration.",
+            "Upon written notice from either Party, if requested by SutroVax in writing (which shall not precede [***]), a Phase 3/Commercial Supply Agreement is to be negotiated. If no agreement is reached within *** days after such request or upon selection of one draft by the arbitrator pursuant to Section 11.4, unless SutroVax elects not to enter into it, then both Parties shall execute the definitive Phase 3/Commercial Supply Agreement selected (excluding any provision granting rights related to Core Know-How). If SutroVax chooses not to enter such agreement within *** days after selection by arbitrator, neither Party is obligated.",
+            "Upon written request from either party, the Parties agree to negotiate in good faith an addendum setting forth terms and conditions pursuant to which Sutro will conduct a Process Transfer (Transfer Addendum) or engage such CMO to establish Capacity for manufacturing Extract consistent with Section 2.15.",
+            "The Transaction Addendum shall also include a mechanism allowing cooperation with the potential Alternate Supplier regarding negotiation of an agreement concerning Extract pricing from said CMO if any commitments are assumed by SutroVax.",
+            "Selection of Alternate Supplier. The “Alternate Supplier” will be selected by Sutro provided that Sutro must select an “Alternate Supplier” that is substantially similar to those CMOs identified on Schedule 2.15.1 hereto and provided further that SutroVax shall have the right to veto such selection based only on a genuine and material conflict of interest between SutroVax and the Alternate Supplier.",
+            "Quotations. Upon SutroVax’s request (which request, for clarity, may be before a request to negotiate a Transfer Addendum), Sutro shall seek quotations from one or more Third Party CMO(s) for such a Process Transfer and/or establishment of such Capacity, in each case as requested by SutroVax, and the Parties shall reasonably cooperate to establish requests for quotations for such purposes.",
+            "Arbitration. If the Parties have not agreed upon a Transfer Addendum within [***] after SutroVax’ request, upon SutroVax’ written notice to Sutro, the terms and conditions of the Transfer Addendum shall be determined by binding arbitration in accordance with the procedures set forth in Section 11.4.",
+            "Sutro/Third Party use of Alternate Supplier. Once the Alternate Supplier is qualified pursuant to this Section 2.15, SutroVax shall have the first right (as between SutroVax and Sutro or Third Parties supplied or authorized by Sutro) to obtain Extract Manufactured by the Alternate Supplier up to the Capacity established pursuant to the Transfer Addendum for a period ending the later of [***] or [***], provided SutroVax commits to [***].",
+            "Sutro shall prepare and retain, and shall cause its subcontractors to prepare and retain, accurate books and records related to transactions made pursuant to this Supply Agreement and Prices. Such records shall be made available for reasonable review, audit and inspection upon reasonable notice and with reasonable frequency.",
+            "Sutro shall have a period of *** calendar days from the date of delivery to inspect any shipment and conduct the SutroVax Activity Test. If Product(s) do not conform, it must notify within that period or upon discovery by its Affiliates/designees after such period.",
+            "Sutro has a right during normal working hours upon reasonable advance notice to perform site audits and inspect or request information relating directly or indirectly involved in the performance of this Supply Agreement.",
+            "During the Term and the period thereafter, Sutro or a SutroAffiliate may perform site audits and inspect, request information relating to Sutro’s Facilities and records directly or indirectly involved in the performance of this Supply Agreement. Such requests should be made in writing.",
+            "Sutro shall provide access for inspections but neither party has the right to observe manufacturing during production times.",
+            "Without limiting, Sutro is responsible for auditing supplier facilities and providing reports with comments on corrective action plans related to Products upon request by SutroVax. It shall also file Drug Master Files (DMF) as requested within a specified timeframe.",
+            "Subject to the foregoing, Sutro shall provide the information set forth under this Section 6.2 in a timely manner and compliant with the reporting requirements of the Regulatory Authorities.",
+            "Each Party acknowledges that the other Party may need access to certain safety data pertaining to products made using Products as required by applicable Laws.",
+            "Each Party agrees to make personnel reasonably available at their respective places of employment for consultation on regulatory issues throughout the Term.",
+            "Sutro agrees to permit Regulatory Authority inspections of its facilities with prior notice given, keeping SutroVax informed about results and actions taken.",
+            "Sutro shall provide copies of any written reports issued by regulatory authorities related to the Product(s) or manufacturing concerns that impact Vaccine Compositions upon request from SutroVax.",
+            "Sutro shall not make any change to the Specification for a Product without SutroVax’s prior written consent. In addition, SutroVax shall have the right to request changes in or modifications to the Specifications and Sutro will consider in good faith any such requested changes or modifications.",
+            "Drug Master Files, Recalls, Retention of Samples.",
+            "Escalation. The Parties intend that, to the maximum extent practicable, they shall reach decisions hereunder cooperatively through discussions among the Principal Contacts and by mutual consent of the Parties.",
+            "Baseball Arbitration. In the event (a) the Parties do not enter into a Phase 3/Commercial Supply Agreement as described in Section 2.14 or (b) the Parties do not enter into a Transfer Addendum as described in Section 2.15, then upon either Party’s request with respect to the Disputed Matter in clause (a) or SutroVax's request with respect to the Disputed Matter in clause (b), such Disputed Matter shall be resolved by binding arbitration conducted pursuant to Section 11.3, except that the procedures for the conduct of such arbitration shall be as follows:",
+            "Each Party shall provide the arbitrator and the other Party with a written report setting forth its position with respect to the substance of such Disputed Matter and a full draft Phase 3/Commercial Supply Agreement or Transfer Addendum, as applicable, and may submit a revised report, position and draft Phase 3/Commercial Supply Agreement or Transfer Addendum, as applicable, to the arbitrator within [***] days of receiving the other Party’s report and draft.",
+            "The arbitrator shall select one of the Party's draft agreements.",
+            "In any arbitration under this Section 11.4, the arbitrator and the Parties shall use their best efforts to resolve such Disputed Matter within days after the selection of the arbitrator, or as soon thereafter as is practicable.",
+            "Neither Party may assign or transfer this Supply Agreement without the other Party’s prior written consent (which shall not be withheld unreasonably)..."
+        ],
+        "liability_legal": [
+            "Delivery and risk of loss pass to SutroVax upon delivery at specified destination.",
+            "Sutro shall deliver products within the Delivery Time Period, with liability for non-compliance penalties and costs incurred by SutroVax subject to evidence provided without breaching confidentiality duties.",
+            "Sutro agrees to ship all Product(s) so that they are delivered to SutroVax and will remain compliant with the Specifications for at least *** months from the date of delivery in accordance with this Supply Agreement.",
+            "Sutro shall not be responsible for any damages resulting from delay or failure in establishing the processes for Manufacture of Custom Reagents at SutroVax’s designee resulting from action or inaction on the part of the designee or to the extent beyond Sutro’s control.",
+            "In addition, Extract supplied by Sutro that conforms to the Required Standards when tested with Custom Reagents manufactured under this Section shall be deemed to conform to the Required Standards and SutroVax may not reject such Extract as a result of non-conformance...",
+            "Invoices. Sutro shall invoice SutroVax at the time of each shipment of Product(s) for the Price for such shipment...",
+            "Each shipment of Product shall be accompanied by a certificate of analysis describing all current requirements of the Specifications and results of tests performed on such Product and a certificate of conformity certifying that the quantities of Product supplied have been Manufactured, controlled and released according to the Required Standards as set forth in the applicable Quality Agreement.",
+            "Sutro shall perform the Sutro Activity Test to confirm that all shipments of Extract meet the Sutro Activity Criteria. SutroVax’s failure to notify within *** days from delivery date, or discovery by SutroVax Affiliates or designees after such period, non-conformity will be deemed for purposes of this Supply Agreement as acceptance.",
+            "Sutro shall have a right to reject non-conforming goods during this time frame provided certain conditions are met and SutroVax has no responsibility for the amounts invoiced for these products, but must pay for replacements under Section 3.1.",
+            "If Product(s) is rejected by either Party as not meeting Required Standards or determined non-conforming after retesting with an independent Laboratory (the 'Laboratory'), the cost of such testing shall be borne solely by Sutro, and if it conforms to standards then fees for replacement Product(s) are due from SutroVax under Section 3.1.",
+            "In case of recall resulting from breach by either Party, responsible party bears costs unless shared if both are at fault.",
+            "7.3.1 Sutro’s Facility and all Product (as delivered in accordance with Section 2.1 and until the expiration date thereof) supplied hereunder shall comply with this Supply Agreement, all Applicable Law (including cGMPs, if applicable), be free from defects in material and workmanship, and meet all Specifications.",
+            "Indemnification by Sutro. Sutro hereby agrees, at its sole cost and expense, to defend, hold harmless and indemnify, to the extent permitted by Applicable Law (collectively, ‘Indemnify’) SutroVax and its Affiliates and their respective agents, directors, officers and employees of such Persons and the respective successors and assigns of any of the foregoing (the 'Sutro Vaccine Indemnitees') from and against any and all Liabilities resulting from suits, claims, actions and demands, in each case brought by a Third Party (each, a ‘Third-Party Claim’) against any SutroVax Indemnitee arising from or occurring as a result of: [***].",
+            "Limitation of Liability.",
+            "Nonexclusive Remedy.",
+            "against the other in respect of any breach of the terms and conditions of this Supply Agreement, and (ii) shall be without any obligation or liability arising from such termination other than such obligations expressly arising from termination of this Supply Agreement.",
+            "Survival. Expiration of the Term or termination of this Supply Agreement (for any reason) shall not affect any accrued rights or liabilities of either Party.",
+            "Article 4 (Product Testing), Article 5 (Inspection), Article 8 (Confidentiality), Article 9 (Indemnification and Insurance), Article 11 (Disputes), Article 12 (Miscellaneous).",
+            "No Party shall be liable for a failure or delay in performing any of its obligations under this Supply Agreement if, but only to the extent that such failure or delay is due to causes beyond the reasonable control of the affected Party...",
+            "...Each Party acknowledges that the other Party may likely suffer irreparable harm from such Party’s breach..."
+        ],
+        "restrictions": [
+            "Sutro shall provide packaged products as per Required Standards.",
+            "Notwithstanding anything to the contrary in this Supply Agreement, SutroVax shall have the rights to purchase Available Extracts and Extracts from CMOs (as defined in the License Agreement) to the extent provided in section 3.1 of the License Agreement.",
+            "the Third Party CMO to Manufacture in its own facilities Extract that meets SutroVax’ requirements, including any such information and know-how as would be needed for such CMO to scale up such Manufacture to the requested commercial volumes.",
+            "Alternate Supplier as Subcontractor. It is understood that the Alternate Supplier established under the Transfer Addendum shall operate as a subcontractor of Sutro under this Supply Agreement and the Phase 3/Commercial Supply Agreement, and as such SutroVax will order from Sutro thereunder any Extract to be Manufactured by such Alternate Supplier.",
+            "Source of Supply. It is understood that after the Alternate Supplier is qualified, SutroVax shall have the right under this Supply Agreement and the Phase 3/Commercial Supply Agreement to specify whether Extract ordered from Sutro pursuant to this Agreement or the Phase 3/Commercial Supply Agreement will be Manufactured at Sutro’s Facility or at the Alternate Supplier’s facilities (and to the extent Extract from the Alternate Supplier is ordered under this Supply Agreement or the Phase 3/Commercial Supply Agreement, the facility of the Alternate Supplier shall be deemed a Facility for purposes of this Supply Agreement and the Phase 3/Commercial Supply Agreement).",
+            "For clarity, SutroVax may Manufacture Custom Reagents itself or obtain supply thereof through a Third Party independent of this Supply Agreement and nothing in this Supply Agreement is intended to restrict SutroVax from doing so.",
+            "Principal Contacts. Each Party will appoint an individual employed by it to serve as its “Principal Contact” for purposes of this Supply Agreement."
+        ],
+        "intellectual_property": [
+            "Title to all Product(s) provided under this Supply Agreement shall pass to SutroVax as set forth in Section 2.6, free and clear of any security interest, lien, or other encumbrance."
+        ],
+        "legal_jurisdiction": [
+            "This Supply Agreement shall be governed by, and construed and enforced in accordance with, the laws of the State of California..."
+        ]
+    }
+}

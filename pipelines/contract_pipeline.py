@@ -320,7 +320,7 @@ def extract_clauses_llm(text):
     clauses = []
     parties = []
 
-    with ThreadPoolExecutor(max_workers=1) as executor:
+    with ThreadPoolExecutor(max_workers=3) as executor:
         results = list(executor.map(lambda p: process_chunk(p[1], p[0]), enumerate(chunks)))
 
     for chunk_clauses, chunk_parties in results:

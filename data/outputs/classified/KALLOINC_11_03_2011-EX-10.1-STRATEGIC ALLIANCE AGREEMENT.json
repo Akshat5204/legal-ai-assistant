@@ -1,0 +1,97 @@
+{
+    "parties": [
+        "Agent",
+        "Petro Data Management Services Limited",
+        "BASCIC",
+        "Kallo - Mobilecare",
+        "Kallo",
+        "Kallo Inc.",
+        "Gateway Global Fabrication Ltd.",
+        "Mr. John Cecil",
+        "Kallo - Mobilecare International Corporation",
+        "Abbott Point of Care",
+        "Canon CXDI-50RF Dynamic/Static Digital Radiography System",
+        "Joint Commission National Patient Safety Goals"
+    ],
+    "classified_clauses": {
+        "Uncertain": [
+            "For the purposes of this Agreement, the following definitions will apply: 'Business Associate' means the Kallo Authorized Agent who could be an individual, organization, or company that desires to represent the Kallo Mobile care product suite only. The Business Associate as it will be defined in this agreement sells the Kallo Mobile Care Product Suite solely.",
+            "Agent agrees to comply in full with Section (2).",
+            "The full business data of each customer as a qualified prospect shall be supplied to Kallo at the time of sale, maintained during this agreement and for one year after termination. Kallo may inspect these records upon no less than 10 business days' notice from Agent solely for verifying amounts due under this Agreement.",
+            "Kallo reserves the right to revoke or limit use of trademarks upon reasonable notice, (5) breach of this Agreement by Agent regarding trademark and logo policies is considered a material breach",
+            "Kallo retains title to the media provided in this Agreement, (7) protection of Kallo's proprietary rights is essential and any failure on its part shall constitute a breach",
+            "Notices permitted or required to be given hereunder shall be deemed sufficient if given i.by registered or certified mail, postage prepaid, return receipt requested, addressed to the addresses given in Schedule B or such other addresses as the respective parties may designate by like notice from time to time.",
+            "This Agreement shall be executed in two or more counterparts in the English language and each such counterpart shall be deemed an original hereof.",
+            "If Agent is acting on behalf of any unit or agency of the United States Government, the following provisions apply:",
+            "Agent expressly agrees to neither directly nor through third parties export nor transmit any Kallo Mobile care suite of Products to any country to which such export or transmission is restricted or prohibited by applicable regulations or statutes.",
+            "The Mobile Medical Clinics can be taken by road to areas where there is no hospitals or clinics and emergency situations, allowing patients or causalities to be treated immediately with effective and real-time consultation with specialists via satellite.",
+            "Hospitals without technology for diagnosis and treatment will receive the latest in equipment through Kallo Mobile Medical Clinics, enhancing their healthcare services with comprehensive care including outpatient services, ante/postnatal services, difficult pregnancy identification, immunization, minor surgery, BP examination, X-rays, ECG, first aid, distribution of Iron Folic tablets, Vitamin A prophylaxis.",
+            "The Mobile Acute Care Clinic serves as an extension to the chemotherapy administration in regional Oncology departments with pre-treatment preparation and scheduling capabilities for patients through a nurse contacted beforehand. It includes equipment like dialysis machine, recliner, power backup, water purification system, defibrillator, artificial respirator.",
+            "The Mobile Chemotherapy Clinic provides routine CD4+ T-cell and CD4% counting with the CyFlow® Counter for HIV monitoring. It is equipped with a portable fluorescence microscope integrated with a CCD camera for malaria diagnostics, along with other auxiliary equipment.",
+            "The Mobile Dialysis Clinic functions like an actual dialysis center and includes necessary machinery such as the clinical chair, defibrillator, artificial respirator, water tank with RO system. It can be moved into homes for patient treatment at their bedside.",
+            "Employment of local operational support staff as required by Kallo - Mobilecare International Corporation for various operations and services within the project scope.",
+            "ISO/IEC 80001 applies to Responsible Organizations, Medical Device manufacturers and other providers of information technologies for the purpose of comprehensive Risk Management.",
+            "The i-STAT System integrates with your Lab Information System (LIS) and Electronic Medical Records (EMR).",
+            "Abbott Point of Care will work with your team to ensure seamless integration with your data management system.",
+            "Smart Access provides clear access to a 47 inch (120 cm) section of the table top for patients arriving on a trolley or bed with ease due to its motorized features, accommodating up to 500 lbs and allowing full end-to-end coverage.",
+            "The CR-2 PLUS Digital Non-Mydriatic Retinal Camera incorporates dedicated EOS camera technology and high quality diagnostic images using a large CMOS sensor of 18 megapixels, with the option to adjust angles for different views.",
+            "{'Clause_1': 'Single Crystal Technology increases bandwidth, offering better signal to noise and improved axial resolution and penetration.', 'Party_Affected': None}",
+            "{'Clause_4': 'Optomed Smartscope or equivalent system is a digital camera that provides general, ophthalmoscopic, otoscopic and dermatoscopic imaging with one hand-held device.', 'Party_Affected': None}"
+        ],
+        "payment_commercial": [
+            "The Agent shall submit and have approved by Kallo a Marketing and Sales Plan for no less than 3 years committing the sale of at least 15 Mobile Medical Clinics, with minimum growth per annum thereafter of 20% cumulative.",
+            "For each Kallo Mobile care suite of products license ordered by Agent from Kallo, Agent shall pay to Kallo the transfer price set forth in Schedule A. 50% of the total amount to be paid with the signed purchase order, 35% upon shipping of the goods to the carrier at Canadian port and 15% upon completion of the installation.",
+            "Kallo’s Mobile Medical Clinics provide specialty training in areas like Pediatrics and Cardiology to front-line medical officers on an additional cost basis based on resource assessment and demand, including a week of intensive training with quick access algorithm cards for ACLS. The basic training is included in the service fee.",
+            "Maintenance costs are covered under Five year Standard Mandatory Maintenance as per Schedule E.",
+            "The CR-2 PLUS Digital Non-Mydriatic Retinal Camera provides Color and Fundus Autofluorescence (FAF) imaging within a small compact design for quick screenings or office visits, with the ability to image patients' pupils as small as 3.3 mm without dilation.",
+            "{'Clause_2': 'Matrix Array Technology helps achieve uniform resolution throughout the field of view, eliminating the compromise between penetration and image resolution.'}",
+            "{'Clause_6': 'UC321 Digital Weighing scale for Telehealth provides highly accurate measurements specifically designed for telemedicine applications.', 'Party_Affected': None}",
+            "{'Clause_7': 'Digital Blood Pressure Monitor or equivalent system can send real-time blood pressure measurements to the Access Point and operates via oscillometric method, with memory storage for time and date stamp.'}"
+        ],
+        "restrictions": [
+            "Agent shall undertake no acts injurious to Kallo's business or goodwill and use its best efforts to promote Kallo and its products, report and follow up all leads provided by Kallo. Agent may not offer competitive products without the consent of Kallo.",
+            "The relationship under this Agreement shall not create any legal partnership, franchise relationship, agency or other form of legal association between the parties which would impose liability upon one party to another.",
+            "Non-Disparagement: During the term hereof and for a period of two years thereafter, each of Agent and Kallo agrees that it will refrain from making any Disparaging Communications regarding the other party and/or the other party's products, services, officers, directors, shareholders, employees or investors.",
+            "Purchasing and transportation of Mobile Clinics, operating equipment, spare parts, medical consumables to various distribution centers in Nigeria from Kallo Inc. Canada.",
+            "Customs clearance and inland transportation assistance with local market development and liaison with clients by Engr. B. A. Soyode",
+            "Supply of all import permits and licenses for Mobile Clinics, medical consumables to Nigeria from Kallo Inc."
+        ],
+        "liability_legal": [
+            "Agent and its successors shall maintain during the term of this agreement all required workers' compensation insurance and comprehensive general liability insurance. Kallo - MOBILECARE agrees that Agent or its successors will promptly supply proof of such insurance on request.",
+            "Kallo represents it has sufficient right, title and interest in its products to enter into the contract with Agent; all distributed products are free of liens. Kallo disclaims any implied or express warranties except as set forth in the EULA provided by Kallo - MOBILECARE.",
+            "Kallo's cumulative liability under this agreement is limited to license fees paid during the 12 months prior to such event, and its limitation of liability includes all expenditures made for addressing liabilities. Agent releases Kallo from any obligations beyond these limits.",
+            "Kallo agrees that Agent will seek and obtain temporary and permanent injunctive relief in addition to any other rights and remedies it may have for unauthorized use of its intellectual property, (4) breach of implied warranty or negligence by the agent,",
+            "Agent shall make all reasonable efforts to handle customer complaints regarding Kallo Mobile care suite products.",
+            "Kallo agrees that Agent will indemnify it and hold it harmless from any loss, damage, claims or demands arising out of intellectual property infringement by the agent related to the Kallo Suite of Products",
+            "Agent agrees not to challenge Kallo's rights in Trademarks.",
+            "Agent agrees not to remove copyright or confidentiality notices from copies.",
+            "No failure by either party to take any action or assert any right hereto shall be deemed to be a waiver of such right, except as specifically provided for above.",
+            "Procurement of drugs/medications during the warranty period in Nigeria with supplier's name not provided herein",
+            "{'Clause_3': 'LogiQ E9 knows the next step of a scan and helps you get there like no other ultrasound system can.', 'Party_Affected': None}",
+            "{'Clause_8': 'Kallo Mobile care suite of products integrates remote or local pharmacist-controlled dispensing system cabinetry and software into one system designed to meet all needs.', 'Party_Affected': None}"
+        ],
+        "rights_control": [
+            "Each party agrees not to disclose any confidential information received from the other in any form without prior written consent.",
+            "The obligations of confidentiality shall not apply to information which is: (1) public domain at the time of disclosure, (2) released by the other party without restrictions, or (3) independently developed by employees of the disclosing party without access to the confidential information.",
+            "Agent shall not register or attempt to register Trademarks without prior written consent.",
+            "This Agreement is not assignable by Agent without prior written consent of Kallo.",
+            "In the event Agent changes its legal structure or undergoes a substantial change in ownership (defined as at least 51% ownership), Kallo shall have the option to terminate this Agreement immediately.",
+            "This agreement and the provisions of the current sales agent program guidelines, as amended from time to time, constitute the entire agreement of the parties with respect to the subject matter hereof and supersede all previous agreements by and between Kallo and agent as well as all prior negotiations, conversations or discussions between the parties related to this agreement.",
+            "This Agreement shall not be deemed or construed to be modified, amended, rescinded, cancelled or waived, except by written amendment signed by the parties hereto."
+        ],
+        "intellectual_property": [
+            "Kallo reserves the right to institute proceedings against third-party infringers, (6) cooperation with Kallo on actions taken by it against such parties and all expenses of action shall be borne by Agent",
+            "Kallo retains all intellectual property rights."
+        ],
+        "license": [
+            "Agent agrees not to reproduce or otherwise use confidential information except as required for distribution.",
+            "The Canon CXDI Control Software RF, designed specifically for the Canon CXDI-50RF Dynamic/Static Digital Radiography System, features a wide range of fluoroscopic procedures and includes all the standard DICOM functions."
+        ],
+        "legal_jurisdiction": [
+            "The laws of the province of Ontario, Canada, govern this AGREEMENT and, in respect of any dispute, which may arise hereunder; Agent consents to the jurisdiction of the federal and provincial courts of Ontario, Canada."
+        ],
+        "parties_definitions": [
+            "{'Clause_5': 'Multi Function Digital Stethoscope or equivalent system is added with ECG and SpO2 monitoring function, effective on emergency treatment.'}"
+        ]
+    }
+}
