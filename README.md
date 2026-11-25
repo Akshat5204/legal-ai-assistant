@@ -9,3 +9,4 @@ One thing I'm particularly proud of is that it can run locally on a user's compu
 I also created a **README** documenting the project, its features, technology stack, setup instructions, and usage.
 
 Building ContractIQ gave me hands-on experience combining LLMs, RAG, traditional machine learning, and software engineering to create a complete application rather than just a standalone AI model.
+I have added a new proofline branch
